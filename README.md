@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Sergio.
 
 - 🔭 I’m currently working on Backend Projects (.Net 6 / C#)
 - 🌱 I’m currently learning anything that catches my attention
