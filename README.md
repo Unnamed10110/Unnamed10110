@@ -6,13 +6,13 @@
 - ⚡ Fun fact: Researched on optimization in elastic optical networks and differential evolutionary algorithms
 
 Skills:
-Core Knowledge: 
--	OOP, Web Development, Backend, Functional Testing, Differential Evolutionary Algorithms, Optimization.
-Software: 
--	(*Familiar): JavaScript, Matlab, Docker, WSL, SignalR.
--	(*Advance Beginner): Python (Django).
--	(*Competent): Java, C, MongoDB.
--	(*Proficient): C# (.NET 6), Jmeter (Load/Stress Testing), Postman, SQL (PostgreSQL, Oracle), Git .
+  Core Knowledge: 
+    -	OOP, Web Development, Backend, Functional Testing, Differential Evolutionary Algorithms, Optimization.
+  Software: 
+    -	(*Familiar): JavaScript, Matlab, Docker, WSL, SignalR.
+    -	(*Advance Beginner): Python (Django).
+    -	(*Competent): Java, C, MongoDB.
+    -	(*Proficient): C# (.NET 6), Jmeter (Load/Stress Testing), Postman, SQL (PostgreSQL, Oracle), Git .
 
 <!--
 **Unnamed10110/Unnamed10110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
