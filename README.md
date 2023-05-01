@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Backend Projects (.Net 6 / C#)
 - 🌱 I’m currently learning anything that catches my attention (lately Advance C#)
 - 📫 How to reach me: trojan.v6@gmail.com
-- ⚡ Fun fact: Researched on optimization in elastic optical networks and differential evolutionary algorithms
+- ⚡ Fun fact: I did researched on optimization in elastic optical networks and differential evolutionary algorithms
 
 Skills/Core Knowledge:
 -    OOP, Web Development, Backend, Functional Testing, Differential Evolutionary Algorithms, Optimization.
