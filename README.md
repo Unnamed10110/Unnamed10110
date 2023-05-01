@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Sergio.
 
 - 🔭 I’m currently working on Backend Projects (.Net 6 / C#)
-- 🌱 I’m currently learning anything that catches my attention
+- 🌱 I’m currently learning anything that catches my attention (lately Advance C#)
 - 📫 How to reach me: trojan.v6@gmail.com
 - ⚡ Fun fact: Researched on optimization in elastic optical networks and differential evolutionary algorithms
 
