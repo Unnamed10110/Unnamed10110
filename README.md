@@ -7,6 +7,7 @@
 
 Skills/Core Knowledge:
 -    OOP, Web Development, Backend, Functional Testing, Differential Evolutionary Algorithms, Optimization.
+
 Software:
 
 -    (*Familiar): JavaScript, Matlab, Docker, WSL, SignalR.
