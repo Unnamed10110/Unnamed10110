@@ -13,7 +13,7 @@ Software:
 -    (*Familiar): JavaScript, Matlab, Docker, WSL, SignalR.
 -    (*Advance Beginner): Python (Django).
 -    (*Competent): Java, C, MongoDB.
--    (*Proficient): C# (.NET 6), Jmeter (Load/Stress Testing), Postman, SQL (PostgreSQL, Oracle), Git .
+-    (*Proficient): C# (.NET 6 / REST, gRPC, SOAP, GraphQL), Jmeter (Load/Stress Testing), Postman (API Testing Automation), SQL (PostgreSQL, Oracle), Git .
 
 <!--
 **Unnamed10110/Unnamed10110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
