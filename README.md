@@ -15,6 +15,17 @@ Software:
 -    (*Competent): Java, C, MongoDB.
 -    (*Proficient): C# (.NET 6 / REST, gRPC, SOAP, GraphQL), Jmeter (Load/Stress Testing), Postman (API Testing Automation), SQL (PostgreSQL, Oracle), Git .
 
+P.S.: If you want to check my knowledge for a job opportunity, I recommend you to check these specific repos (More coming soon):
+- https://github.com/Unnamed10110/WebApi_NetCore
+- https://github.com/Unnamed10110/EdgeJobs_Test
+- https://github.com/Unnamed10110/DE-variants
+- https://github.com/Unnamed10110/Python-ProjectManager
+- https://github.com/Unnamed10110/AI
+- https://github.com/Unnamed10110/WorkerService_Windows_CheckURLS
+- https://github.com/Unnamed10110/GrpcService_01
+- https://github.com/Unnamed10110/meet_in_the_middle_attack
+
+
 <!--
 **Unnamed10110/Unnamed10110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
