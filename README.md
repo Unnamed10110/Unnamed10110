@@ -15,7 +15,7 @@ Software:
 -    (*Competent): Java, C, MongoDB.
 -    (*Proficient): C# (.NET 6 / REST, gRPC, SOAP, GraphQL), Jmeter (Load/Stress Testing), Postman (API Testing Automation), SQL (PostgreSQL, Oracle), Git .
 
-### P.S.: If you are checking my repository to validate my knowledge for a job opportunity, I recommend you to check these specific repos (More coming soon):
+** P.S.: If you are checking my repository to validate my knowledge for a job opportunity, I recommend you to check these specific repos (More coming soon):
 - https://github.com/Unnamed10110/WebApi_NetCore
 - https://github.com/Unnamed10110/EdgeJobs_Test
 - https://github.com/Unnamed10110/DE-variants
