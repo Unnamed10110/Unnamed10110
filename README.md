@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Sergio.
 
-- 🔭 I’m currently working on Backend Projects (.Net 6 / C#)
+- 🔭 I’m currently working on Backend Projects (.Net / C#)
 - 🌱 I’m currently learning anything that catches my attention (lately Advance C#)
 - 📫 How to reach me: trojan.v6@gmail.com
 - ⚡ Fun fact: I did researched on optimization in elastic optical networks and differential evolutionary algorithms
@@ -10,7 +10,7 @@ Skills/Core Knowledge:
 
 Software:
 
--    (*Familiar): JavaScript, Matlab, Docker, WSL, SignalR.
+-    (*Familiar): JavaScript, Matlab, Docker, WSL, SignalR, X++, Dynamics AX/365.
 -    (*Advance Beginner): Python (Django).
 -    (*Competent): Java, C, MongoDB.
 -    (*Proficient): C# (.NET 6 / REST, gRPC, SOAP, GraphQL), Jmeter (Load/Stress Testing), Postman (API Testing Automation), SQL (PostgreSQL, Oracle), Git .
