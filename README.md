@@ -12,7 +12,7 @@ Software:
 
 -    (*Familiar): JavaScript, Matlab, Docker, WSL, SignalR, X++, Dynamics AX/365.
 -    (*Advance Beginner): Python (Django).
--    (*Competent): Java, C, MongoDB.
+-    (*Competent): Java/Spring Boot, C, MongoDB.
 -    (*Proficient): C# (.NET 6 / REST, gRPC, SOAP, GraphQL), Jmeter (Load/Stress Testing), Postman (API Testing Automation), SQL (PostgreSQL, Oracle), Git .
 
 ** P.S.: If you are checking my repository to validate my knowledge for a job opportunity, I recommend you to check these specific repos (More coming soon):
