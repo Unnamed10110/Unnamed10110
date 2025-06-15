@@ -15,6 +15,13 @@ Software:
 -    (*Competent): Java/Spring Boot, C, MongoDB, Db2 Ibm i, As400 5250 emulator.
 -    (*Proficient): C# (.NET 6 / REST, gRPC, SOAP, GraphQL), Jmeter (Load/Stress Testing), Postman (API Testing Automation), SQL (PostgreSQL, Oracle, DB2 ibm i), Git, WSL.
 
+---
 
-# Older projects can be considered work related.
-# More recent project are personal projects I do for fun and for my own interests in coding and learning, even if they might seen simple they are fun and useful.
+<div style="white-space: pre-wrap; font-family: monospace;">
+  
+- Older projects can be considered work related.
+  
+- More recent project are personal projects I do for fun and for my own interests in coding and learning, even if they might seen simple they are fun and useful.
+</div>
+
+---
