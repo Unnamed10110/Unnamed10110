@@ -21,7 +21,9 @@ Software:
   
 - Older projects can be considered work related.
   
-- More recent project are personal projects I do for fun and for my own interests in coding and learning, even if they might seen simple they are fun and useful. Feel free to comment and suggest anything you thing I can improve or try.
+- More recent project are personal projects I do for fun and for my own interests in coding and learning, even if they might seen simple they are fun and useful.
+  
+- Feel free to comment and suggest anything you thing I can improve or try.
 </div>
 
 ---
